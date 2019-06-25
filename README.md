@@ -1,5 +1,5 @@
 # BrainNetClass
-We are glad to announce that our new Brain Network Construction & Classification toolbox, BrainNetClass-v1.0, has been released on Github (https://github.com/zzstefan/BrainNetClass). It was developed by IDEA (Image Display, Enhancement and Analysis Laboratory) at the University of North Carolina at Chapel Hill. 
+We are glad to announce that our new Brain Network Construction & Classification toolbox, BrainNetClass-v1.0, has been released on Github (https://github.com/zzstefan/BrainNetClass)[9]. It was developed by IDEA (Image Display, Enhancement and Analysis Laboratory) at the University of North Carolina at Chapel Hill. 
 
 It is a Matlab-based, open-coded, fully automated brain functional connectivity network-based disease classification toolbox with user-friendly GUI that automatically conducts functional network construction, network feature extraction and selection, parameter optimization, classification, model validation, and result demonstration. It was designed to help neuroscientists, doctors, and researchers in other fields who have limited coding and machine learning knowledge to easily and correctly work on brain functional connectomics building with state-of-the-art algorithms [1-8] and conduct rigorous individualized disease diagnosis or other classification tasks. It is hoped that this toolbox could be of help in standardization the methodology and boost reproducibility, generalizability, and interpretability of the network-based classification. 
 
@@ -7,9 +7,9 @@ Specifically, BrainNetClass-v1.0 provides abundant algorithms for brain function
 
 With a simple configuration on a GUI interface, all these results and reports are just a few clicks away. All the processes will be automatically performed and results will be saved for users to evaluate the model and interpret the findings. More importantly, the model will be saved for future use on newly acquired data to perform a quick classification or diagnosis. 
 
-For details, please see the manual. Exemplary toy data are provided for a quick walkthrough. Please contact Zhen Zhou (zzstefan@email.unc.edu), Han Zhang (hanzhang@med.unc.edu), and Dinggang Shen (dgshen@med.unc.edu) for any issues and suggestions. Your feedback is more than welcomed to help us improve it. If you feel it is helpful to your research, please cite the following papers.
+For details, please see the toolbox article on https://arxiv.org/abs/1906.09908 [9] and the toolbox manual. Exemplary toy data are provided for a quick walkthrough. Please contact Zhen Zhou (zzstefan@email.unc.edu), Han Zhang (hanzhang@med.unc.edu), and Dinggang Shen (dgshen@med.unc.edu) for any issues and suggestions. Your feedback is more than welcomed to help us improve it. If you feel it is helpful to your research, please cite the following papers [1-9].
 
-BrainNetClass-v1.0 uses libsvm-3.23 and SLEP-4.1 toolboxes. We would like to thank Xiaobo Chen, Yu Zhang, Lishan Qiao, Renping Yu for their contributions. It was supported by the NIH grants (EB022880, AG041721, AG049371, and AG042599). 
+BrainNetClass-v1.0 uses libsvm-3.23 and SLEP-4.1 toolboxes. We would also like to thank Xiaobo Chen, Yu Zhang, Lishan Qiao, Renping Yu for their contributions. It was supported by the NIH grants (EB022880, AG041721, AG049371, and AG042599). 
 
 
 References \
