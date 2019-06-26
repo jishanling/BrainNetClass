@@ -115,7 +115,7 @@ handles.default.window_length=[20:10:60];
 handles.default.k_times=10;
 
 % User can change the value of lasso_lambda and step 
-handles.default.lasso_lambda=0.1;
+handles.default.lasso_lambda=0.05;
 handles.default.step=1;
 
 handles.cross_val='loocv';
